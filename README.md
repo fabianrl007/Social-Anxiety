@@ -48,3 +48,11 @@ The primary goal is to build a classification model that identifies high-potenti
 
 ## 3. How to Run
 *(Instructions on how to set up and run your code)*
+
+## 4. Data Source
+
+* **Author:** ZHANG CHENYUAN
+* **Title:** Social Anxiety Dataset
+* **Year:** 2025 (Updated)
+* **Source:** Kaggle
+* **URL:** `https://www.kaggle.com/datasets/natezhang123/social-anxiety-dataset`
